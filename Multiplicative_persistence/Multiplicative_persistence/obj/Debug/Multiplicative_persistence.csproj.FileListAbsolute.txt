@@ -1,0 +1,7 @@
+C:\Users\Ossi\Documents\Visual Studio 2017\Projects\Multiplicative_persistence\Multiplicative_persistence\bin\Debug\Multiplicative_persistence.exe.config
+C:\Users\Ossi\Documents\Visual Studio 2017\Projects\Multiplicative_persistence\Multiplicative_persistence\bin\Debug\Multiplicative_persistence.exe
+C:\Users\Ossi\Documents\Visual Studio 2017\Projects\Multiplicative_persistence\Multiplicative_persistence\bin\Debug\Multiplicative_persistence.pdb
+C:\Users\Ossi\Documents\Visual Studio 2017\Projects\Multiplicative_persistence\Multiplicative_persistence\obj\Debug\Multiplicative_persistence.csprojResolveAssemblyReference.cache
+C:\Users\Ossi\Documents\Visual Studio 2017\Projects\Multiplicative_persistence\Multiplicative_persistence\obj\Debug\Multiplicative_persistence.csproj.CoreCompileInputs.cache
+C:\Users\Ossi\Documents\Visual Studio 2017\Projects\Multiplicative_persistence\Multiplicative_persistence\obj\Debug\Multiplicative_persistence.exe
+C:\Users\Ossi\Documents\Visual Studio 2017\Projects\Multiplicative_persistence\Multiplicative_persistence\obj\Debug\Multiplicative_persistence.pdb
